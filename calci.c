@@ -40,6 +40,6 @@ case 3: r=mul(a,b); print(r); break;
 case 4: r=div(a,b); print(r); break;
 case 5: r=mod(a,b); print(r); break;
 }
-printf("Bye");
+printf("Bye..");
 return 0;
 }
